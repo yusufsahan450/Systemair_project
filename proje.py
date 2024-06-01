@@ -12,7 +12,7 @@ eye_cascade = cv2.CascadeClassifier("/haarcascade_eye.xml")
 
 
 
-def frame_1():
+def frame_1():#yorum
 
 
         ret, img = cap.read()
@@ -47,6 +47,6 @@ def frame_2():
 
 while True:
     frame_1()
-    frame_2()
+    frame#yorum
 
 
